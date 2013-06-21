@@ -1,5 +1,5 @@
-FaithNoMango Jquery Slider (which is actually a fader)
-======================================================
+FaithNoMango Jquery Slider
+==========================
 
 Included Files:
 ---------------
