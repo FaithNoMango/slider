@@ -20,19 +20,19 @@ How to use it:
 Unzip the files to your htdocs folder on your web server. 
 
 Inside your html document, in the head section, include the css file (before the javascript):
-
+```
 <link rel="stylesheet" type="text/css" media="screen" href="css/slider.css" />
-
+```
 Next, inside your html document's head section, include the jquery javascript source file (from Google because it loads faster):
-
+```
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
-
+```
 Also include the slider javascript source file: 
-
+```
 <script type="text/javascript" src="js/slider.js"></script> 
-
+```
 Include this code next, and put your own values in to specify options: 
-
+```
 <script type="text/javascript">
 $(function()
 {
@@ -47,7 +47,7 @@ $(function()
     $('#slider').begin(slider_properties);
 });
 </script> 
-
+```
 Note that:
 ----------
 
@@ -59,7 +59,7 @@ Note that:
 
 Finally, in your html, include this code:
 -----------------------------------------
-
+```
 <div id="slider">
     <div id="slider_img">
         <img src="images/my_first_slider_image.jpg">
@@ -82,7 +82,7 @@ Finally, in your html, include this code:
         </a>
     </div>
 </div>
-
+```
 Note that:
 ----------
 
