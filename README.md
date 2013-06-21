@@ -23,7 +23,7 @@ Inside your html document, in the head section, include the css file (before the
 ```
 <link rel="stylesheet" type="text/css" media="screen" href="css/slider.css" />
 ```
-Next, inside your html document's head section, include the jquery javascript source file (from Google because it loads faster):
+Next, inside your html document's head section, include the jquery javascript source file:
 ```
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> 
 ```
