@@ -3,14 +3,16 @@ FaithNoMango Jquery Slider (which is actually a fader)
 
 Included Files:
 ---------------
-
-Example usage:	 	example.htm
-CSS:				css/slider.css
-Javascript:			js/slider.js
-Left Image:	 		slider_images/slider_left.png
-Left Image (Over):	slider_ images/slider_left2.png
-Right Image:		slider_images/slider_right.png
-Right Image (Over):	slider_images/slider_right2.png
+<table>
+  <tr><th>Description</th><th>File</th></tr>
+  <tr><td>Example usage:</td><td>example.htm</td></tr>
+  <tr><td>CSS:</td><td>css/slider.css</td></tr>
+  <tr><td>Javascript:</td><td>js/slider.js</td></tr>
+  <tr><td>Left Image:</td><td>slider_images/slider_left.png</td></tr>
+  <tr><td>Left Image (Over):</td><td>slider_ images/slider_left2.png</td></tr>
+  <tr><td>Right Image:</td><td>slider_images/slider_right.png</td></tr>
+  <tr><td>Right Image (Over):vslider_images/slider_right2.png</td></tr>
+</table>
 
 How to use it:
 --------------
