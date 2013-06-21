@@ -12,6 +12,7 @@ Included Files:
   <tr><td>Left Image (Over):</td><td>slider_ images/slider_left2.png</td></tr>
   <tr><td>Right Image:</td><td>slider_images/slider_right.png</td></tr>
   <tr><td>Right Image (Over):</td><td>vslider_images/slider_right2.png</td></tr>
+  <tr><td>Slider Images:</td><td>images/</td></tr>
 </table>
 
 How to use it:
