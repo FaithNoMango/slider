@@ -11,7 +11,7 @@ Included Files:
   <tr><td>Left Image:</td><td>slider_images/slider_left.png</td></tr>
   <tr><td>Left Image (Over):</td><td>slider_ images/slider_left2.png</td></tr>
   <tr><td>Right Image:</td><td>slider_images/slider_right.png</td></tr>
-  <tr><td>Right Image (Over):vslider_images/slider_right2.png</td></tr>
+  <tr><td>Right Image (Over):</td><td>vslider_images/slider_right2.png</td></tr>
 </table>
 
 How to use it:
@@ -21,7 +21,7 @@ Unzip the files to your htdocs folder on your web server.
 
 Inside your html document, in the head section, include the css file (before the javascript):
 
-<link rel="stylesheet" type="text/css" media="screen" href="css/slider.css" /> 
+<link rel="stylesheet" type="text/css" media="screen" href="css/slider.css" />
 
 Next, inside your html document's head section, include the jquery javascript source file (from Google because it loads faster):
 
