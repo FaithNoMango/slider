@@ -63,10 +63,9 @@ Finally, in your html, include this code:
 ```
 <div id="slider">
     <div id="slider_img">
-        <img src="images/my_first_slider_image.jpg">
-        <img src="images/my_second_slider_image.jpg">
-        <img src="images/my_third_slider_image.jpg">
-        <img src="images/my_fourth_slider_image.jpg">
+        <img src="images/Penguins.jpg">
+        <img src="images/Lighthouse.jpg">
+        <img src="images/Tulips.jpg">
     </div>
     <div id="slider_left">
         <a href="#">
