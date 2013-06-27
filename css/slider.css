@@ -29,6 +29,7 @@
   margin-top: 10px;
   float: left;
   width: 10%;
+  cursor: pointer;
 }
 #slider_right
 {
